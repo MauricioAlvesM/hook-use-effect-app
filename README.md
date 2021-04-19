@@ -13,6 +13,9 @@ Format: ![Alt Text](https://github.com/MauricioAlvesM/hook-use-effect-app/blob/m
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](https://github.com/MauricioAlvesM/hook-use-effect-app/blob/main/image-next-app-random.png)
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://github.com/MauricioAlvesM/hook-use-effect-app/blob/main/image-redux.png)
+
 
 ## Available Scripts
 
