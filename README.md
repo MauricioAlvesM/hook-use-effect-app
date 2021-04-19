@@ -7,15 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](https://github.com/MauricioAlvesM/hook-use-effect-app/blob/main/image-use-hook-effect.png)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/hook-use-effect-app/blob/main/image-next-app.png)
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/hook-use-effect-app/blob/main/image-next-app-random.png)
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/hook-use-effect-app/blob/main/image-redux.png)
-
 
 ## Available Scripts
 
